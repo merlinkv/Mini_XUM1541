@@ -25,11 +25,16 @@ The most used floppy drives are the 1541, 1541-II and 1571. The best option, wit
 
 100% compatible with NIB Tools, CBM4Win and CBMxfer.
 
-Links:
+# Links:
 
 - http://www.6502.org/users/sjgray/software/cbmxfer/cbmxfer.html
 - https://github.com/sjgray/cbm-transfer/tree/master
 - https://vice-emu.sourceforge.io/
+
+# Tutorial (in Spanish):
+
+- https://www.winuaespanol.com/phpbb3/viewtopic.php?t=1028
+
 
 
 ![PCB_Front](https://github.com/merlinkv/Mini_XUM1541/blob/main/Mini_XUM1541_Front.jpg)
