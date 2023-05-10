@@ -35,3 +35,7 @@ Links:
 ![PCB_Front](https://github.com/merlinkv/Mini_XUM1541/blob/main/Mini_XUM1541_Front.jpg)
 
 ![PCB_Back](https://github.com/merlinkv/Mini_XUM1541/blob/main/Mini_XUM1541_Back.jpg)
+
+![Image 1](https://github.com/merlinkv/Mini_XUM1541/blob/main/20201022_195347.jpg)
+![Image 2](https://github.com/merlinkv/Mini_XUM1541/blob/main/20201022_195354.jpg)
+![Image 3](https://github.com/merlinkv/Mini_XUM1541/blob/main/20201028_185429.jpg)
