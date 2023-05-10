@@ -19,12 +19,17 @@ USE AT YOUR OWN RISK!
 
 # Mini_XUM1541
 
-A small interface to be able to burn real discs or create C64 disc images on a PC.
+The Mini_XUM1541 interface allows us to copy programs and games from the PC to a real C64 floppy drive and dump C64 disks into the PC as D64 or G64 images.
+
+The most used floppy drives are the 1541, 1541-II and 1571. The best option, without a doubt, is the 1571 since, apart from having improved hardware and ROM, it will allow us to make copies of protected disks without any problem. In the case of using 1541 or 1541-II disk drives we can only copy unprotected disks. However, these floppy drives can be modified to parallel ports to connect them to this interface and thus be able to make quick copies, even of protected games.
+
+100% compatible with NIB Tools, CBM4Win and CBMxfer.
 
 Links:
 
 - http://www.6502.org/users/sjgray/software/cbmxfer/cbmxfer.html
 - https://github.com/sjgray/cbm-transfer/tree/master
+- https://vice-emu.sourceforge.io/
 
 
 ![PCB_Front](https://github.com/merlinkv/Mini_XUM1541/blob/main/Mini_XUM1541_Front.jpg)
