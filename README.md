@@ -21,6 +21,12 @@ USE AT YOUR OWN RISK!
 
 A small interface to be able to burn real discs or create C64 disc images on a PC.
 
+Links:
+
+- http://www.6502.org/users/sjgray/software/cbmxfer/cbmxfer.html
+- https://github.com/sjgray/cbm-transfer/tree/master
+
+
 ![PCB_Front](https://github.com/merlinkv/Mini_XUM1541/blob/main/Mini_XUM1541_Front.jpg)
 
 ![PCB_Back](https://github.com/merlinkv/Mini_XUM1541/blob/main/Mini_XUM1541_Back.jpg)
