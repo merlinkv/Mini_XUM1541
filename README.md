@@ -21,4 +21,4 @@ USE AT YOUR OWN RISK!
 
 A small interface to be able to burn real discs or create C64 disc images on a PC.
 
-![PCB Front](https://github.com/merlinkv/Mini_XUM1541/blob/master/Mini_XUM1541_Front.jpg)
+![Mini_XUM1541_Front](https://github.com/merlinkv/Mini_XUM1541/blob/master/Mini_XUM1541_Front.jpg)
