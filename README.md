@@ -20,7 +20,7 @@ USE AT YOUR OWN RISK!
 # Mini_XUM1541
 
 * 27-04-2024
-  - Board schema, PCB and gerbers ported to KiCAD 8.0.1
+  - Schema, PCB and gerbers ported to KiCAD 8.0.1
   - Board updated to version 1.5
   - Added ICSP connector to add a second way to programm the ATMEGA32u2-AU
 
