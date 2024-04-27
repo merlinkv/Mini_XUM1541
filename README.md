@@ -19,6 +19,11 @@ USE AT YOUR OWN RISK!
 
 # Mini_XUM1541
 
+* 27-04-2024
+  - Board schema, PCB and gerbers ported to KiCAD 8.0.1
+  - Board updated to version 1.5
+  - Added ICSP connector to add a second way to programm the ATMEGA32u2-AU
+
 The Mini_XUM1541 interface allows us to copy programs and games from the PC to a real C64 floppy drive and dump C64 disks into the PC as D64 or G64 images.
 
 The most used floppy drives are the 1541, 1541-II and 1571. The best option, without a doubt, is the 1571 since, apart from having improved hardware and ROM, it will allow us to make copies of protected disks without any problem. In the case of using 1541 or 1541-II disk drives we can only copy unprotected disks. However, these floppy drives can be modified to parallel ports to connect them to this interface and thus be able to make quick copies, even of protected games.
