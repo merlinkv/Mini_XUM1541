@@ -43,7 +43,7 @@ The most used floppy drives are the 1541, 1541-II and 1571. The best option, wit
 # Images:
 
 
-![PCB_Front](https://github.com/merlinkv/Mini_XUM1541/blob/main/Mini_XUM1541_1_5Front.jpg)
+![PCB_Front](https://github.com/merlinkv/Mini_XUM1541/blob/main/Mini_XUM1541_1_5_Front.jpg)
 
 ![PCB_Back](https://github.com/merlinkv/Mini_XUM1541/blob/main/Mini_XUM1541_1_5_Back.jpg)
 
