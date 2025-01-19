@@ -27,6 +27,7 @@ USE AT YOUR OWN RISK!
   - Schema, PCB and gerbers ported to KiCAD 8.0.1
   - Board updated to version 1.5
   - Added ICSP connector to add a second way to programm the ATMEGA32u2-AU
+  - [Interactive BOM](https://htmlpreview.github.io/?https://github.com/merlinkv/Mini_XUM1541/blob/main/Mini%20XUM1541%201.5.html)
 
 The Mini_XUM1541 interface allows us to copy programs and games from the PC to a real C64 floppy drive and dump C64 disks into the PC as D64 or G64 images.
 
